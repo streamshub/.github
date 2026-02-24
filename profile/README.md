@@ -19,4 +19,4 @@ Where a gap exists in the current open source offering, StreamsHub aims to host 
 - **Propose a new project or change:** Submit a proposal via the [proposals](https://github.com/streamshub/proposals) repository.
 - **Contribute documentation and tutorials:** Help improve best-practice guides and tutorials on the [StreamsHub website](https://www.streamshub.io/) ([source](https://github.com/streamshub/streamshub-site)).
 - **Report issues and contribute code:** Each project repository welcomes issues and pull requests.
-- **Goverance:** Community Goverance (code of conduct, voting rules, etc.) is covered in the [Goverance Repository](https://github.com/streamshub/goverance)
+- **Governance:** Community Governance (code of conduct, voting rules, etc.) is covered in the [Governance Repository](https://github.com/streamshub/governance)
