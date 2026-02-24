@@ -5,7 +5,7 @@ Open source resources for building real-time event-driven services and data pipe
 There is a rich ecosystem of open source projects providing event-driven and real-time data infrastructure, including Apache Kafka, Flink, Spark, Pulsar, and many more. 
 Navigating this ecosystem is often difficult, and knowing how to deploy, run, and combine these projects can be daunting.
 
-StreamsHub provides a curated set of projects, templates, tools, and documentation to help infrastructure engineers build services that support event-driven architectures (EDA) on Kubernetes. 
+The goal of StreamsHub is to provide a curated set of projects, templates, tools, and documentation to help infrastructure engineers build services that support event-driven architectures (EDA) on Kubernetes. 
 Where a gap exists in the current open source offering, StreamsHub aims to host a project to fill it, with the goal of contributing solutions upstream where appropriate.
 
 ## Key Projects
