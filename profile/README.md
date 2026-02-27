@@ -31,5 +31,5 @@ The main way to interact officially with the StreamsHub community is via the Pro
 
 The StreamsHub community call is usually held bi-weekly:
 - Meetings are scheduled on the StreamsHub Google Calendar: [Web](https://calendar.google.com/calendar/embed?src=fad0c9b9be278955809bc8e47806f7a17a70b7112dfc145ca8f497c318612b1d%40group.calendar.google.com&ctz=Europe%2FLondon) / [iCal](https://calendar.google.com/calendar/ical/fad0c9b9be278955809bc8e47806f7a17a70b7112dfc145ca8f497c318612b1d%40group.calendar.google.com/public/basic.ics)
-- Meeting agenda and notes are stored in this [Google Doc](https://calendar.google.com/calendar/ical/fad0c9b9be278955809bc8e47806f7a17a70b7112dfc145ca8f497c318612b1d%40group.calendar.google.com/public/basic.ics)
+- Meeting agenda and notes are stored in this [Google Doc](https://docs.google.com/document/d/1f1iK6SXwFh34D5xj2-gA_ghpu9_Ubg4KaDDIlZTy5Sk/edit?usp=sharing)
 - Please add any discussion items to the agenda at least 12 hours before the meeting starts. If there are no agenda items or significant proposals/issues/PRs to discuss, the maintainers reserve the right to cancel the meeting. Cancellations will be announced on the `#all-streamshub` channel on the community Slack.
