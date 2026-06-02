@@ -11,6 +11,7 @@ Where a gap exists in the current open source offering, StreamsHub aims to host 
 ## Key Projects
 
 - **[Console](https://github.com/streamshub/console)** -- A web UI for managing Strimzi-managed Apache Kafka clusters on Kubernetes.
+- **[Streamshub-mcp](https://github.com/streamshub/streamshub-mcp)** -- Collection of mcp servers for streaming portfolio including Strimzi.
 - **[Flink SQL Runner](https://github.com/streamshub/flink-sql)** -- A wrapper for deploying Flink SQL jobs using the Flink Kubernetes Operator.
 - **[Flink SQL Examples](https://github.com/streamshub/flink-sql-examples)** -- Tutorials for running Flink SQL on Kubernetes.
 
